@@ -1,0 +1,32 @@
+h1{
+    text-align:center;
+  }
+  table, th, td {
+  border: 3px solid black;
+  } 
+  
+  #coca{
+    max-width: 150px;
+    margin: auto;
+    display: block 
+  }
+  #pepsi{
+    max-width: 150px;
+    margin: auto;
+    display: block;
+  }
+  #dolly {
+    max-width: 150px;
+    margin: auto;
+    display: block 
+  }
+  #guarana{
+    max-width: 150px;
+    margin: auto;
+    display: block 
+  }
+  #kuat{
+    max-width: 150px;
+    margin: auto;
+    display: block 
+  }
